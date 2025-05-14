@@ -1,6 +1,6 @@
-# CIDM-2315-01 - C#
+# C#
 
-- Project files created and used during CIDM-2315-01 course for Programming business applications using C# and .NET
+- Project files created and used for Programming business applications using C# and .NET
 
 ## Creating a Project section
 
